@@ -17,6 +17,3 @@ _Note: this project was made exclusively for educational purposes._
 **Lucca Rodrigues** - Project manager, lead developer
 
 **João Pedro Rodrigues** - Lead artist
-
-
-![](https://user-images.githubusercontent.com/89958312/131917283-a92e6aad-a24f-46a1-beb1-f8e0dfafca77.png)
