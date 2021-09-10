@@ -2,7 +2,7 @@
 
 A remake of _Super Mario Bros._ for the TIC-80 fantasy console.
 
-![](https://user-images.githubusercontent.com/89958312/132740175-5ba68193-7616-4aa0-9473-fd74ca1532e4.png)
+![](https://raw.githubusercontent.com/ChromeUniverse/tiny-smb/main/banner.png)
 
 _Note: this project was made exclusively for educational purposes._
 
@@ -14,6 +14,6 @@ _Note: this project was made exclusively for educational purposes._
 
 ## Project Staff
 
-**Lucca Rodrigues** - Project manager, lead developer
+**Lucca Rodrigues** ([@ChromeUniverse](https://github.com/ChromeUniverse/)) - Project manager, lead developer
 
-**João Pedro Rodrigues** - Lead artist
+**João Pedro Rodrigues** ([@RazorDMG64](https://github.com/razordmg64)) - Lead artist
